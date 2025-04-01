@@ -52,7 +52,7 @@ The script creates a directory named `<domain>_result` containing:
 - Other files related to specific tools.
 
 ## Notes
-- Run the script with proper permissions: `chmod +x script.sh`
+- Run the script with proper permissions: `chmod +x l4.sh`
 - Some tools require API keys for better results (e.g., `amass`, `subfinder`).
 - The script is optimized for Linux-based systems.
 
