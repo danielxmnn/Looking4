@@ -34,11 +34,11 @@ GO111MODULE=on go get -v github.com/projectdiscovery/katana/cmd/katana
 ## Usage
 Run the script with the following command:
 ```bash
-./script.sh <domain> [--v]
+./l4.sh <domain> [--v]
 ```
 Example:
 ```bash
-./script.sh example.com --v
+./l4.sh example.com --v
 ```
 - `<domain>`: The target domain for subdomain enumeration.
 - `--v` (optional): Enables verbose mode for debugging.
